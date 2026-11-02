@@ -1,0 +1,117 @@
+[
+ {
+  "month": "2026-06",
+  "days": 30,
+  "usd_all_total": 79885756.35,
+  "usd_all_per_day": 2662858.54,
+  "usd_all_mom_pct": null,
+  "usd_top10_by_usd_total": 61546720.87,
+  "usd_top10_by_usd_per_day": 2051557.36,
+  "usd_top10_by_usd_mom_pct": null,
+  "usd_top10_by_tokens_total": 45268254.06,
+  "usd_top10_by_tokens_per_day": 1508941.8,
+  "usd_top10_by_tokens_mom_pct": null,
+  "tokens_total": 175656421197647,
+  "tokens_per_day": 5855214039921.57,
+  "tokens_mom_pct": null,
+  "usd_per_million_tokens": 0.4548,
+  "price_source_share": {
+   "archived": 0.9072,
+   "archived-extrapolated": 0.045,
+   "live-extrapolated": 0.0479,
+   "free": 0.0
+  }
+ },
+ {
+  "month": "2026-07",
+  "days": 31,
+  "usd_all_total": 94774931.19,
+  "usd_all_per_day": 3057255.84,
+  "usd_all_mom_pct": 14.8,
+  "usd_top10_by_usd_total": 67781105.01,
+  "usd_top10_by_usd_per_day": 2186487.26,
+  "usd_top10_by_usd_mom_pct": 6.6,
+  "usd_top10_by_tokens_total": 46473241.14,
+  "usd_top10_by_tokens_per_day": 1499136.81,
+  "usd_top10_by_tokens_mom_pct": -0.6,
+  "tokens_total": 231315705040701,
+  "tokens_per_day": 7461796936796.81,
+  "tokens_mom_pct": 27.4,
+  "usd_per_million_tokens": 0.4097,
+  "price_source_share": {
+   "archived": 0.9642,
+   "archived-extrapolated": 0.0062,
+   "live-extrapolated": 0.0296,
+   "free": 0.0
+  }
+ },
+ {
+  "month": "2026-08",
+  "days": 31,
+  "usd_all_total": 92289521.9,
+  "usd_all_per_day": 2977081.35,
+  "usd_all_mom_pct": -2.6,
+  "usd_top10_by_usd_total": 58561666.37,
+  "usd_top10_by_usd_per_day": 1889086.01,
+  "usd_top10_by_usd_mom_pct": -13.6,
+  "usd_top10_by_tokens_total": 28733188.67,
+  "usd_top10_by_tokens_per_day": 926877.05,
+  "usd_top10_by_tokens_mom_pct": -38.2,
+  "tokens_total": 352859069579633,
+  "tokens_per_day": 11382550631601.06,
+  "tokens_mom_pct": 52.5,
+  "usd_per_million_tokens": 0.2615,
+  "price_source_share": {
+   "archived": 0.9721,
+   "live-extrapolated": 0.0254,
+   "free": 0.0,
+   "archived-extrapolated": 0.0025
+  }
+ },
+ {
+  "month": "2026-09",
+  "days": 30,
+  "usd_all_total": 108925470.21,
+  "usd_all_per_day": 3630849.01,
+  "usd_all_mom_pct": 22.0,
+  "usd_top10_by_usd_total": 66873920.6,
+  "usd_top10_by_usd_per_day": 2229130.69,
+  "usd_top10_by_usd_mom_pct": 18.0,
+  "usd_top10_by_tokens_total": 28728635.7,
+  "usd_top10_by_tokens_per_day": 957621.19,
+  "usd_top10_by_tokens_mom_pct": 3.3,
+  "tokens_total": 521082790361005,
+  "tokens_per_day": 17369426345366.83,
+  "tokens_mom_pct": 52.6,
+  "usd_per_million_tokens": 0.209,
+  "price_source_share": {
+   "archived": 0.9478,
+   "live-extrapolated": 0.0151,
+   "free": 0.0,
+   "archived-extrapolated": 0.0001,
+   "live": 0.0369
+  }
+ },
+ {
+  "month": "2026-10",
+  "days": 31,
+  "usd_all_total": 132716196.92,
+  "usd_all_per_day": 4281167.64,
+  "usd_all_mom_pct": 17.9,
+  "usd_top10_by_usd_total": 82618054.56,
+  "usd_top10_by_usd_per_day": 2665098.53,
+  "usd_top10_by_usd_mom_pct": 19.6,
+  "usd_top10_by_tokens_total": 56533241.02,
+  "usd_top10_by_tokens_per_day": 1823652.94,
+  "usd_top10_by_tokens_mom_pct": 90.4,
+  "tokens_total": 708681863739656,
+  "tokens_per_day": 22860705281924.39,
+  "tokens_mom_pct": 31.6,
+  "usd_per_million_tokens": 0.1873,
+  "price_source_share": {
+   "archived": 0.6457,
+   "live": 0.3543,
+   "free": 0.0
+  }
+ }
+]
